@@ -1,7 +1,7 @@
 # overlapping_objects_counting
 Counting overlapping cells in cell culture environment
 
-![alt text](<img src="https://github.com/nhuhoa/overlapping_objects_counting/tree/main/testing_color_image/demo_output.jpg" title="Demo output of overlapping objects counting - colony detection" width="75%" align="right">)
+(<img src="https://user-images.githubusercontent.com/8064672/178600687-4d8907b0-d1f9-4b66-9d81-792f98d1a739.jpg" title="Demo output of overlapping objects counting - colony detection" width="50%" align="left">)
 
 Steps: 
 + Color deconvolution H and E
