@@ -1,0 +1,14 @@
+Requirements
+sys
+argparse
+os
+pandas
+numpy
+scipy
+matplotlib
+
+
+glob
+tifffile
+stardist
+zipfile
