@@ -11,8 +11,12 @@ Counting overlapping objects - colony formation assay CFA
 
 
 
+
 ## Demo: 
-<img src="https://user-images.githubusercontent.com/8064672/178600687-4d8907b0-d1f9-4b66-9d81-792f98d1a739.jpg" title="Demo output of overlapping objects counting - colony detection" width="100%" align="left">
+<img src="https://user-images.githubusercontent.com/8064672/178648599-7bb57da9-6a0c-40cc-88b4-e810f1dc75a1.jpg" title="Demo output of overlapping objects counting - colony detection" width="100%" align="left">
+
+
+
 
 
 
