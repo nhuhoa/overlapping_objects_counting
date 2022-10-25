@@ -1,0 +1,18 @@
+.DS_Store*
+Thumbs.db
+.vscode/*
+
+*.pyc
+*.cpython*
+# Snakemake
+.snakemake/*
+
+#vscode
+__pycache__/*
+*/__pycache__/*
+#internal testing files
+debug_stats
+profile_analysis.py
+*-checkpoint.py
+*-checkpoint.ipynb
+*-checkpoint
